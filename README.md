@@ -23,10 +23,13 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -37,12 +40,13 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| [WebDeb](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | SvelteKit |
+| [Progetto LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | C |
+| [TicTacToe](https://github.com/TizFox/TicTacToe) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | JavaScript |
+| [ClockPazzo](https://github.com/TizFox/ClockPazzo) | A slightly unconventional clock | JavaScript |
 | [Chess](https://github.com/TizFox/Chess) | Playable chess game in the browser | JavaScript |
 | [Checkers](https://github.com/TizFox/Checkers) | Classic draughts game | JavaScript |
-| [TicTacToe](https://github.com/TizFox/TicTacToe) | Tic-tac-toe with win detection | JavaScript |
-| [ClockPazzo](https://github.com/TizFox/ClockPazzo) | A slightly unconventional clock | JavaScript |
-| [PasswordGenerator](https://github.com/TizFox/PasswordGenerator) | Secure password generator | HTML / JS |
-| [Progetto LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | C |
+
 
 ---
 
@@ -54,7 +58,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TizFox&layout=compact&theme=default&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TizFox&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TizFox&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
