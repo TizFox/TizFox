@@ -48,8 +48,8 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [WebDeb](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | SvelteKit |
-| [Progetto LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | C |
+| [Project WebDev](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | SvelteKit |
+| [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | C |
 | [TicTacToe](https://github.com/TizFox/TicTacToe) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | JavaScript |
 | [ClockPazzo](https://github.com/TizFox/ClockPazzo) | A slightly unconventional clock | JavaScript |
 | [Chess](https://github.com/TizFox/Chess) | Playable chess game in the browser | JavaScript |
