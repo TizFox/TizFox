@@ -14,8 +14,8 @@
 ## About me
 
 - BSc student in **Computer Science** at the University of Pisa
-- Interested in web development, algorithms and logic-based games
-- Always learning something new
+- Interested in web development, algorithms, logic-based games and computer graphics
+- Working on stuff
 
 ---
 
@@ -33,10 +33,12 @@
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 <br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -74,6 +76,7 @@
 
 <div align="center">
 
+*"Talk is cheap. Show me the code." — Linus Torvalds* <br>
 *"Make it work, make it right, make it fast."*
 
 </div>
