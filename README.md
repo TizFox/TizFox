@@ -76,7 +76,7 @@
 
 <div align="center">
 
-*"Talk is cheap. Show me the code." — Linus Torvalds* <br>
+*"Talk is cheap. Show me the code." - Linus Torvalds* <br>
 *"Make it work, make it right, make it fast."*
 
 </div>
