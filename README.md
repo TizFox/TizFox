@@ -4,8 +4,8 @@
 
 ### CS Student @ University of Pisa
 
-[![GitHub followers](https://img.shields.io/github/followers/TizFox?label=Followers&style=flat-square&color=555&labelColor=eee)](https://github.com/TizFox?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/TizFox?label=Stars&style=flat-square&color=555&labelColor=eee)](https://github.com/TizFox)
+[![GitHub followers](https://img.shields.io/github/followers/TizFox?label=Followers&style=for-the-badge&color=555&labelColor=eee)](https://github.com/TizFox?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/TizFox?label=Stars&style=for-the-badge&color=555&labelColor=eee)](https://github.com/TizFox)
 
 </div>
 
@@ -24,23 +24,23 @@
 <div align="center">
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -50,13 +50,13 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Project WebDev](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) |
-| [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| [TicTacToe](https://tizfox.github.io/TicTacToe/) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) |
-| [LittleShell](https://github.com/TizFox/LittleShell) | Basic Shell | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [Chess](https://tizfox.github.io/Chess/) | Playable chess game in the browser | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [Checkers](https://tizfox.github.io/Checkers/) | Classic draughts game | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [Project WebDev](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
+| [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| [TicTacToe](https://tizfox.github.io/TicTacToe/) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
+| [LittleShell](https://github.com/TizFox/LittleShell) | Basic Shell | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+| [Chess](https://tizfox.github.io/Chess/) | Playable chess game in the browser | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| [Checkers](https://tizfox.github.io/Checkers/) | Classic draughts game | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 
 ---
