@@ -53,7 +53,7 @@
 | [Project WebDev](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | SvelteKit |
 | [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | C |
 | [TicTacToe](https://tizfox.github.io/TicTacToe/) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | JavaScript |
-| [ClockPazzo](https://tizfox.github.io/ClockPazzo/) | A slightly unconventional clock | JavaScript |
+| [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | SvelteKit |
 | [Chess](https://tizfox.github.io/Chess/) | Playable chess game in the browser | JavaScript |
 | [Checkers](https://tizfox.github.io/Checkers/) | Classic draughts game | JavaScript |
 
