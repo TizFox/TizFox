@@ -50,12 +50,13 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Project WebDev](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | SvelteKit |
-| [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | C |
-| [TicTacToe](https://tizfox.github.io/TicTacToe/) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | JavaScript |
-| [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | SvelteKit |
-| [Chess](https://tizfox.github.io/Chess/) | Playable chess game in the browser | JavaScript |
-| [Checkers](https://tizfox.github.io/Checkers/) | Classic draughts game | JavaScript |
+| [Project WebDev](https://github.com/TizFox/WebDeb) | Web Development exam project - UniPi | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) |
+| [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project — UniPi | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [TicTacToe](https://tizfox.github.io/TicTacToe/) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) |
+| [LittleShell] | Basic Shell | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [Chess](https://tizfox.github.io/Chess/) | Playable chess game in the browser | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [Checkers](https://tizfox.github.io/Checkers/) | Classic draughts game | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 
 ---
