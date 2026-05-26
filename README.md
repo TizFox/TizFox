@@ -74,12 +74,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TizFox&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-<div align="center">
-
-*"Talk is cheap. Show me the code." - Linus Torvalds* <br>
-*"Make it work, make it right, make it fast."*
-
-</div>
