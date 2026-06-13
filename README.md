@@ -56,8 +56,7 @@
 | [Project LabII](https://github.com/TizFox/Progetto_LabII) | Lab II exam project - UniPi | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
 | [LittleShell](https://github.com/TizFox/LittleShell) | Basic Shell | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| [PassKeeper](https://github.com/TizFox/PassKeeper) | Password Manager Website & Chrome Extension | 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
+| [PassKeeper](https://github.com/TizFox/PassKeeper) | Password Manager Website & Chrome Extension | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
 | [TicTacToe](https://tizfox.github.io/TicTacToe/) | Tic-tac-toe with an unbeatable AI opponent using the Minimax algorithm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | [Chess](https://tizfox.github.io/Chess/) | Playable chess game in the browser | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | [Checkers](https://tizfox.github.io/Checkers/) | Classic draughts game | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
