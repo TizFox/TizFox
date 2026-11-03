@@ -53,7 +53,7 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [GDR_Forge](https://gdr_forge.tizfox.com/) | GDR Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| [GDR_Forge](https://gdrforge.tizfox.com/) | GDR Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | [PassKeeper](https://tizfox.github.io/PassKeeper/) | Password Manager Website & Chrome Extension | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) |
 | [DnD_Forge](https://tizfox.github.io/DnD_Forge/) | DnD Character Sheet Manager | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
 | [Project WebDev](https://github.com/TizFox/Progetto_WebDeb) | Web Development exam project - UniPi | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
